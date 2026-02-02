@@ -1,14 +1,19 @@
 # YouTube Trending SQL Analysis
 
 ## Overview
-This project analyzes a U.S. YouTube Trending dataset using SQL to identify
-engagement patterns, category trends, and timing insights.
+Analyzed a U.S. YouTube Trending dataset using SQL to understand video engagement,
+category popularity, and upload timing patterns.
 
-## Skills Used
+## Skills & Tools
 - SQL (SELECT, WHERE, GROUP BY, ORDER BY, LIMIT, OFFSET)
 - Aggregation and ranking
-- Data-driven analysis
+- Data-driven insights
 
-## Contents
-- `queries.sql` – SQL queries used in the analysis
-- `milestone.pdf` – Project submission with results and explanations
+## Key Insights
+- Identified top-performing videos based on engagement metrics
+- Analyzed category distribution among trending videos
+- Evaluated upload timing patterns to surface content optimization opportunities
+
+## Repository Contents
+- `queries.sql` – SQL queries used for analysis
+- `milestone.pdf` – Completed project submission with explanations and results
